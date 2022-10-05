@@ -1,4 +1,4 @@
-%afalabarce
+% afalabarce
 
 ## Sobre mi
 
