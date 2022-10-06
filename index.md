@@ -108,5 +108,18 @@ Además de las apps desarrolladas, tengo varios repositorios en Github en los qu
 	- SwipeableCard, este composable nos permite, mediante desplazamientos horizontales, agregar diversas acciones a un card, de este modo es muy sencillo, e intuitivo el acceso a múltiples opciones.
 	- ViewModelService, este desarrollo es un Service que implementa el acceso a ViewModel, por lo que podemos crear servicios que van a poder comportarse de forma reactiva.
 	
+	Para utilizar estos composables, es taaaaan sencillo como en el build.gradle de tu app poner lo siguiente	
 	
-	
+	```groovy
+	// dependiendo de cuando lo leas, esta versión habrá subido, ya que tendrá nuevos composables...
+	implementation "io.github.afalabarce:jetpackcompose:1.3.1" 
+	```
+
+
+## Conclusión
+
+
+
+Si has llegado hasta aquí, mil gracias por aguantar las parrafadas anteriores, en caso de que quieras contactar conmigo, puedes hacerlo por ejemplo, a través de mi perfil en LinkedIn: https://www.linkedin.com/in/antonio-f-83415069/
+
+Un saludo!!!
