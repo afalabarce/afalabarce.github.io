@@ -9,7 +9,7 @@
 * Estoy empezando también a hacer mis pinitos con Flutter, aunque Dart (me reservo mi opinión )... 
 * Otros lenguajes, con los que he jugado, Python, Swift, Javascript (aunque como curiosidad y con intención didáctica)
 
-Mi Historia con el desarrollo de aplicaciones comienza a la edad de 11 años, con un ordenador Amstrad PC 1512DD (IBM Compatible), el lenguaje Basic (Locomotive Basic2), y una curiosidad que me hizo aprender a desarrollar mi primer juego (un Ahorcado) como un pequeño pique sano con un familiar. 
+Mi Historia con el desarrollo de aplicaciones comienza a la edad de 11 años, con un ordenador [Amstrad PC 1512DD (IBM Compatible)](https://es.wikipedia.org/wiki/Amstrad_PC1512), el lenguaje Basic (Locomotive Basic2), y una curiosidad que me hizo aprender a desarrollar mi primer juego (un Ahorcado) como un pequeño pique sano con un familiar. 
 La siguiente aplicación que desarrollé fue una calculadora, que como toda calculadora empezó con las operaciones básicas, hasta que con 14 años, gracias a un reto de mi profesor de Matemáticas... diseñé y programé un triángulo de Tartaglia (pongo el código en Kotlin a continuación, bastante más breve que con basic 😇):
 
 ```kotlin
