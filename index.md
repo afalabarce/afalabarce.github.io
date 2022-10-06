@@ -97,16 +97,15 @@ Además de las apps desarrolladas, tengo varios repositorios en Github en los qu
 - *https://github.com/afalabarce/NetCoreWebApi*, este repo contiene un servicio web básico Rest realizado con .Net Core, que despliega lo mínimo necesario para permitir un desarrollo, esto es implementa como mínimo la autenticación mediante tokens JWT. El servicio soporta como motores de bases de datos a Sql Server, PostgreSql y MySql (y derivados).
 - *https://github.com/afalabarce/mess_drawer*, este repositorio lo he pensado como un cajón desastre, en el que agregaré pequeños desarrollos que, por un motivo u otro, no he agregado a otros repositorios, actualmente tiene una implementación de un Dialog para navegación por sistemas de archivos mediante *JetPack Compose para escritorio* (sin utilizar ninguna integración Swing).
 - *https://github.com/afalabarce/jetpackcompose*, este repositorio es al que más tiempo dedico y el que más funcionalidades dispone, todas pensadas para el sistema de UI JetPackCompose:
-	- CalendarComposable, implementa un componente CalendarPicker, así como un CalendarDropDown, de muy fácil configuración y despliegue.
-	- CircularProgressIndicator, implementa un ProgressIndicator circular, que permite agregar composables en el interior del toroide, al que además
- agrega un fondo de color en la zona no completada.
- 	- DrawCanvas, implementa un canvas de dibujo, al que además he agregado la posibilidad de agregar una marca de agua, al estilo de un sello, pudiendo estar delante o detrás del trazo realizado.
-	- LabelledSwitch, es un switch para compose, que permite asignar tanto un label como un leadingIcon al switch (compose sólo nos da el propio switch, sin label.
-	- ModifierExtensions, son unas extensiones al modifier de compose, que nos permite modificar los bordes de un composable, dandole un formato de punteado de líneas.
-	- NoPaddingAlertDialog, este composable nos permite utilizar un AlertDialog SIN paddings (en compose los AlertDialog tienen un padding (que no se puede quitar) de 16.dp. De este modo, podemos personalizar enormemente su apariencia.
-	- SpinnerSelector, otro composable que compose no proporciona, en este caso, el "clásico desplegable".
-	- SwipeableCard, este composable nos permite, mediante desplazamientos horizontales, agregar diversas acciones a un card, de este modo es muy sencillo, e intuitivo el acceso a múltiples opciones.
-	- ViewModelService, este desarrollo es un Service que implementa el acceso a ViewModel, por lo que podemos crear servicios que van a poder comportarse de forma reactiva.
+	- *CalendarComposable*, implementa un componente CalendarPicker, así como un CalendarDropDown, de muy fácil configuración y despliegue.
+	- *CircularProgressIndicator*, implementa un ProgressIndicator circular, que permite agregar composables en el interior del toroide, al que además agrega un fondo de color en la zona no completada.
+ 	- *DrawCanvas*, implementa un canvas de dibujo, al que además he agregado la posibilidad de agregar una marca de agua, al estilo de un sello, pudiendo estar delante o detrás del trazo realizado.
+	- *LabelledSwitch*, es un switch para compose, que permite asignar tanto un label como un leadingIcon al switch (compose sólo nos da el propio switch, sin label.
+	- *ModifierExtensions*, son unas extensiones al modifier de compose, que nos permite modificar los bordes de un composable, dandole un formato de punteado de líneas.
+	- *NoPaddingAlertDialog*, este composable nos permite utilizar un AlertDialog SIN paddings (en compose los AlertDialog tienen un padding (que no se puede quitar) de 16.dp. De este modo, podemos personalizar enormemente su apariencia.
+	- *SpinnerSelector*, otro composable que compose no proporciona, en este caso, el "clásico desplegable".
+	- *SwipeableCard*, este composable nos permite, mediante desplazamientos horizontales, agregar diversas acciones a un card, de este modo es muy sencillo, e intuitivo el acceso a múltiples opciones.
+	- *ViewModelService*, este desarrollo es un Service que implementa el acceso a ViewModel, por lo que podemos crear servicios que van a poder comportarse de forma reactiva.
 	
 	Para utilizar estos composables, es taaaaan sencillo como en el build.gradle de tu app poner lo siguiente	
 	
@@ -117,7 +116,6 @@ Además de las apps desarrolladas, tengo varios repositorios en Github en los qu
 
 
 ## Conclusión
-
 
 
 Si has llegado hasta aquí, mil gracias por aguantar las parrafadas anteriores, en caso de que quieras contactar conmigo, puedes hacerlo por ejemplo, a través de mi perfil en LinkedIn: https://www.linkedin.com/in/antonio-f-83415069/
