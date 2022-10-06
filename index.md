@@ -132,6 +132,6 @@ Además de las apps desarrolladas, tengo varios repositorios en Github en los qu
 ## Conclusión
 
 
-Si has llegado hasta aquí, mil gracias por aguantar las parrafadas anteriores, en caso de que quieras contactar conmigo, puedes hacerlo por ejemplo, a través de mi perfil en LinkedIn: https://www.linkedin.com/in/antonio-f-83415069/
+Si has llegado hasta aquí, mil gracias por aguantar las parrafadas anteriores, en caso de que quieras contactar conmigo, puedes hacerlo por ejemplo, a través de [Mi perfil en LinkedIn](https://www.linkedin.com/in/antonio-f-83415069/)
 
 Un saludo!!!
