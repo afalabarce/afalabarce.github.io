@@ -42,6 +42,16 @@ Este hobby infantil se convirtió en mi gran pasión y mi profesión, previo pas
 
 De la Escuela Técnica Superior de Ingeniería Informática guardo unos recuerdos increibles, de toda la gente que conocí, tanto compañeros de estudios como profesores, que de un modo u otro, marcaron mi forma de ser e incentivaron esa curiosidad que ya tenía aquel chaval de 11 años, que utilizaba su primer ordenador con la ilusión de ver que aquello que escribía en un idioma "extraño" provocaba que el aparato hiciese lo escrito (más o menos 🙃)
 
+
+Como no todo en la vida es desarrollar software, tengo otras aficiones (evidentemente) :
+- La lectura (tengo entre manos la trilogía de Marte, entre otros), de la cual me apasiona el género de Ciencia Ficción principalmente.
+- El buen cine, el cine clásico me encanta, Erol Flinn, Burt Lancaster, Chaplin (especialmente me encanta el Gran Dictador), además de comedias y de acción, claro está.
+- Dar laaaaargos paseos con mi Perrita, que es incansable, lo que la convierte en la compañera ideal para esas caminatas 😅
+
+![image](https://user-images.githubusercontent.com/103461358/194420396-6f3ed5e4-d353-4de2-954c-a3ebecfb3f5b.png)
+
+
+
 ## Mis desarrollos
 
 Durante todos mis años desarrollando aplicaciones, he publicado varios de ellos, opensource la mayoría... entre ellos... destacan los siguientes (tanto opensource, como cerrados):
