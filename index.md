@@ -76,3 +76,7 @@ Durante todos mis años desarrollando aplicaciones, he publicado varios de ellos
     
 ![image](https://user-images.githubusercontent.com/103461358/194416797-3f57076d-f5ac-48bf-b5a4-60be98b1dad9.png)
 
+
+## Desarrollos OpenSource
+
+Además de las apps desarrolladas, tengo varios repositorios en Github en los que bajo licencia Open Source, pongo a disposición de la comunidad algunos desarrollos que creo pueden ser útiles (a mi me resultan útiles, por lo que seguro que al menos a otro desarrollador podrán servirle):
