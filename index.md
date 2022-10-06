@@ -40,7 +40,7 @@ fun main() {
 
 Este hobby infantil se convirtió en mi gran pasión y mi profesión, previo paso por la Universidad de Granada. 
 
-De la Escuela Técnica Superior de Ingeniería Informática guardo unos recuerdos increibles, de toda la gente que conocí, tanto compañeros de estudios como profesores, que de un modo u otro, marcaron mi forma de ser e incentivaron esa curiosidad que ya tenía aquel chaval de 11 años, que utilizaba su primer ordenador con la ilusión de ver que aquello que escribía en un idioma "extraño" provocaba que el aparato hiciese lo escrito (más o menos 🙃)
+De la [Escuela Técnica Superior de Ingeniería Informática](https://etsiit.ugr.es/) guardo unos recuerdos increibles, de toda la gente que conocí, tanto compañeros de estudios como profesores, que de un modo u otro, marcaron mi forma de ser e incentivaron esa curiosidad que ya tenía aquel chaval de 11 años, que utilizaba su primer ordenador con la ilusión de ver que aquello que escribía en un idioma "extraño" provocaba que el aparato hiciese lo escrito (más o menos 🙃)
 
 
 Como no todo en la vida es desarrollar software, tengo otras aficiones (evidentemente) :
