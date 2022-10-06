@@ -71,6 +71,11 @@ Durante todos mis años desarrollando aplicaciones, he publicado varios de ellos
     
 ![image](https://user-images.githubusercontent.com/103461358/194416292-a3f7fa09-4a18-4077-bc17-0eaf4f9511d1.png)
    
+   * *El Juego de la Escalera*, este fue otro jueguecillo de desarrollo rápido, que aprovechaba prácticamente el 90% de la lógica de la Oca... :D
+
+![image](https://user-images.githubusercontent.com/103461358/194429052-a85c1af3-4bfd-4fa4-af52-4b5fe1ece276.png)
+
+
    *  *My Checkout*, esta fue un auténtico reto, ya que... mediante Scrap accedía a la página de Checkout de Google (antigua pasarela de pagos de google para desarrolladores) a fin de proporcionar estadísticas y resultados de ventas de apps. Estuvo muy chula, la verdad...
     
 ![image](https://user-images.githubusercontent.com/103461358/194416420-3ec4048c-f746-4458-90b4-6132ffacc76a.png)
