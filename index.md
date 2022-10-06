@@ -73,5 +73,6 @@ Durante todos mis años desarrollando aplicaciones, he publicado varios de ellos
     ![image](https://user-images.githubusercontent.com/103461358/194416716-e4703223-798e-45fb-b12b-4ab0485a96c8.png)
 
     *  *Palabras en cadena*, esta es la app más reciente que he desarrollado, es una app tipo Wordle, con la salvedad de que cada día disponemos de una partida completa con más de 9000 palabras españolas en las que cada palabra se relaciona con la anterior a partir de una de las letras. Ha sido muy satisfactorio realizarla, ya que además de JetPackCompose, he utilizado otras tecnologías tan interesantes como Inyección de dependencias con Hilt, Flows, etc. Ha sido muy divertido desarrollarla 😇
+    
 ![image](https://user-images.githubusercontent.com/103461358/194416797-3f57076d-f5ac-48bf-b5a4-60be98b1dad9.png)
 
