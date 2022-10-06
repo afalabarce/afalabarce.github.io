@@ -53,12 +53,25 @@ Durante todos mis años desarrollando aplicaciones, he publicado varios de ellos
 
 * *Aplicaciones Android*, he realizado a lo largo de los años (desde 2012) de forma personal 14 apps android, la mayoría por desgracia, ya no están disponibles, si bien cada una de ellas ocupa un lugar especial, por uno u otro motivo:
     *  *Parchis*, esta fue la primera, era un sencillo juego de parchís que realicé en un par de semanas.
+![image](https://user-images.githubusercontent.com/103461358/194415683-9dd44dcd-11d6-454d-bfa4-f45336035be2.png)
+
     *  *El Juego de la Oca*, después del parchís lo natural era hacer la Oca, en este caso, ya que pude aprovechar la mayor parte del parchís, fue un visto y no visto.
+![image](https://user-images.githubusercontent.com/103461358/194416292-a3f7fa09-4a18-4077-bc17-0eaf4f9511d1.png)
+
     *  *My Checkout*, esta fue un auténtico reto, ya que... mediante Scrap accedía a la página de Checkout de Google (antigua pasarela de pagos de google para desarrolladores) a fin de proporcionar estadísticas y resultados de ventas de apps. Estuvo muy chula, la verdad...
+![image](https://user-images.githubusercontent.com/103461358/194416420-3ec4048c-f746-4458-90b4-6132ffacc76a.png)
+
     *  *Fm Radio Recorder*, esta app fue algo curioso, que surgió como una apuesta... tenía en su momento un Samsung galaxy S, el cual, permitía escuchar la radio pero no grabarla... entonces surgió la apuesta de que no se podía realizar la grabación de las emisoras... pero investigando un poco por Xda Developers, me encontré un artículo que explicaba con todo lujo de detalles la api de Samsung para la radio FM... el resultado... una app que era capaz de sintonizar una emisora, y grabarla, como en los viejos tiempos se grababan a casette las canciones de las emisoras favoritas... La app grababa en wav, y la última versión a ogg.
+![image](https://user-images.githubusercontent.com/103461358/194415960-dc810cea-7b4b-405d-8cec-c89f05337f7f.png)
+
     *  *En 2013 se produjo un punto de inflexión*, y es que, me hice cliente del operador móvil Simyo, el cual en ese momento no disponía de app móvil (pocas operadoras tenían su propia app), entonces... les pedí permiso para realizar una app no oficial, permiso que me dieron (siempre eternamente agradecido a la compañía, y son totalmente recomendables). El resultado... *Mi Simyo*, una app que era capaz de conectar (imero por scrap a su web, y posteriormente mediante su API oficial), extraer y presentar de forma ordenada (incluidos diversos gráficos) los da.tos de facturación del cliente, permitiendo incluso la descarga de las facturas. Esta app es con diferencia a la que tengo más cariño de todas las que he podido desarrollar. Su evolución a lo largo de los años puede verse en la siguiente imagen:
 	![image](https://user-images.githubusercontent.com/103461358/194412306-f91fd4d9-dda4-4db4-a8d4-6ade53cc064e.png)
     *  *My Jobs for Infojobs*, esta app nace de la participación en un concurso promovido por la plataforma de empleo de Infojobs, en ella se pedía realizar una app con algunas funcionalidades que permitiesen a un candidato gestionar tanto su curriculum como sus ofertas de empleo. La última versión de la app, era capaz, a partir de los datos de Infojobs, generar un curriculum en PDF que podía ser compartido con los contactos del usuario.
+    ![image](https://user-images.githubusercontent.com/103461358/194416604-ef2ae5aa-b6ab-481b-9ece-255062fdb3f6.png)
+
     *  *Mi Pomodoro*, esta es una de las últimas apps que he desarrollado, está desarrollada con las tecnologías de JetPack Compose, siendo la primera app que hago con esta tecnología de manera personal (que no profesional, ya que profesionalmente, ya había desarrollado 3 apps utilizando dicha tecnología). Es una app de tipo pomodoro, para gestionar los tiempos de trabajo empleados en tareas, así como los tiempos de descanso necesarios.
+    ![image](https://user-images.githubusercontent.com/103461358/194416716-e4703223-798e-45fb-b12b-4ab0485a96c8.png)
+
     *  *Palabras en cadena*, esta es la app más reciente que he desarrollado, es una app tipo Wordle, con la salvedad de que cada día disponemos de una partida completa con más de 9000 palabras españolas en las que cada palabra se relaciona con la anterior a partir de una de las letras. Ha sido muy satisfactorio realizarla, ya que además de JetPackCompose, he utilizado otras tecnologías tan interesantes como Inyección de dependencias con Hilt, Flows, etc. Ha sido muy divertido desarrollarla 😇
+![image](https://user-images.githubusercontent.com/103461358/194416797-3f57076d-f5ac-48bf-b5a4-60be98b1dad9.png)
 
