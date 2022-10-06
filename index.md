@@ -2,7 +2,7 @@
 
 ## Sobre mi
 
-¡Hola! me llamo Antonio Fernández, y soy desarrollador en múltiples plataformas y lenguajes, entre las que me apasionan (y se llevan el tiempo que puedo dedicar):
+¡Hola! me llamo Antonio Fernández, y procedo de un pequeño pueblo de la costa granadina llamado [Ítrabo](https://es.wikipedia.org/wiki/%C3%8Dtrabo) (sí, es un nombre un poco "raro" :D), y soy desarrollador en múltiples plataformas y lenguajes, entre las que me apasionan (y se llevan el tiempo que puedo dedicar):
 * .Net Framework y .Net Framework Core (con C# como lenguaje)
 * Desarrollo nativo con Android (utilizando Kotlin principalmente, aunque he vivido la época Java, de la que guardo gratos recuerdos)
 * SQL, sobre todo, utilizando bases de datos Sql Server, PostgreSql (QUE ME ENCANTA ❤️) Y MySql (y sus clones)
@@ -38,7 +38,7 @@ fun main() {
 }
 ```
 
-Este hobby infantil se convirtió en mi gran pasión y mi profesión, previo paso por la Universidad de Granada. 
+Este hobby infantil se convirtió en mi gran pasión y mi profesión, previo paso por la [Universidad de Granada](https://www.ugr.es). 
 
 De la [Escuela Técnica Superior de Ingeniería Informática](https://etsiit.ugr.es/) guardo unos recuerdos increibles, de toda la gente que conocí, tanto compañeros de estudios como profesores, que de un modo u otro, marcaron mi forma de ser e incentivaron esa curiosidad que ya tenía aquel chaval de 11 años, que utilizaba su primer ordenador con la ilusión de ver que aquello que escribía en un idioma "extraño" provocaba que el aparato hiciese lo escrito (más o menos 🙃)
 
