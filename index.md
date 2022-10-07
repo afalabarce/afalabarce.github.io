@@ -57,6 +57,9 @@ Como no todo en la vida es desarrollar software, tengo otras aficiones (evidente
 Durante todos mis años desarrollando aplicaciones, he publicado varios de ellos, opensource la mayoría... entre ellos... destacan los siguientes (tanto opensource, como cerrados):
 
 * *Java beans*, eran unos java beans que desarrollé hace ya casi 15 años, que permitían, utilizando NetBeans, el desarrollo de interfaces de Usuario en Java de una forma muy sencilla, extendiendo los Beans proporcionados por Swing, dotándolos de nuevas funcionalidades. El más destacado por su complejidad y funcionalidad, era un Grid (heredaba de JTable) que permitía de una forma visual (y sin escribir una sola línea de código) la configuración de dicho componente, dotándolo de funcionalidades directas como ordenación, formateo de tipos de celdas, celdas de agrupación, celdas de tipos primitivos y complejos, pintado condicional de celdas, etc.
+![image](https://user-images.githubusercontent.com/103461358/194666078-98554e61-d99b-433b-b833-5433a2897046.png)
+![image](https://user-images.githubusercontent.com/103461358/194666191-0ea30301-542c-4600-96bd-f34a8554b934.png)
+![image](https://user-images.githubusercontent.com/103461358/194666249-c229f20d-a6cb-48b1-a1cd-6157e56226aa.png)
 
 * *MsSql2PgSql*, era un pequeño programa en Java, que permitía exportar una base de datos Sql Server (tablas y vistas) a PostgreSql, su funcionamiento era extremadamente sencillo. Una pequeña captura de pantalla puede hacer una idea de lo que permitía hacer...
 * 
