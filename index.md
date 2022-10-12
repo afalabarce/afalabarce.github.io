@@ -88,7 +88,7 @@ Durante todos mis años desarrollando aplicaciones, he publicado varios de ellos
     
 ![image](https://user-images.githubusercontent.com/103461358/194415960-dc810cea-7b4b-405d-8cec-c89f05337f7f.png)
     
-   *  *En 2013 se produjo un punto de inflexión*, y es que, me hice cliente del operador móvil Simyo, el cual en ese momento no disponía de app móvil (pocas operadoras tenían su propia app), entonces... les pedí permiso para realizar una app no oficial, permiso que me dieron (siempre eternamente agradecido a la compañía, y son totalmente recomendables). El resultado... *Mi Simyo*, una app que era capaz de conectar (primero por scrap a su web, y posteriormente mediante su API oficial), extraer y presentar de forma ordenada (incluidos diversos gráficos) los da.tos de facturación del cliente, permitiendo incluso la descarga de las facturas. Esta app es con diferencia a la que tengo más cariño de todas las que he podido desarrollar. Su evolución a lo largo de los años puede verse en la siguiente imagen:
+   *  *En 2013 se produjo un punto de inflexión*, y es que, me hice cliente del operador móvil Simyo, el cual en ese momento no disponía de app móvil (pocas operadoras tenían su propia app), entonces... les pedí permiso para realizar una app no oficial, permiso que me dieron (siempre eternamente agradecido a la compañía, y son totalmente recomendables). El resultado... *[Mi Simyo](https://play.google.com/store/apps/details?id=com.tarsys.miSimyo)*, una app que era capaz de conectar (primero por scrap a su web, y posteriormente mediante su API oficial), extraer y presentar de forma ordenada (incluidos diversos gráficos) los da.tos de facturación del cliente, permitiendo incluso la descarga de las facturas. Esta app es con diferencia a la que tengo más cariño de todas las que he podido desarrollar. Su evolución a lo largo de los años puede verse en la siguiente imagen:
     
 ![image](https://user-images.githubusercontent.com/103461358/194412306-f91fd4d9-dda4-4db4-a8d4-6ade53cc064e.png)
    
@@ -96,11 +96,11 @@ Durante todos mis años desarrollando aplicaciones, he publicado varios de ellos
     
 ![image](https://user-images.githubusercontent.com/103461358/194416604-ef2ae5aa-b6ab-481b-9ece-255062fdb3f6.png)
    
-   *  *Mi Pomodoro*, esta es una de las últimas apps que he desarrollado, está desarrollada con las tecnologías de JetPack Compose, siendo la primera app que hago con esta tecnología de manera personal (que no profesional, ya que profesionalmente, ya había desarrollado 3 apps utilizando dicha tecnología). Es una app de tipo pomodoro, para gestionar los tiempos de trabajo empleados en tareas, así como los tiempos de descanso necesarios.
+   *  *[Mi Pomodoro](https://play.google.com/store/apps/details?id=io.github.afalabarce.mypomodoro)*, esta es una de las últimas apps que he desarrollado, está desarrollada con las tecnologías de JetPack Compose, siendo la primera app que hago con esta tecnología de manera personal (que no profesional, ya que profesionalmente, ya había desarrollado 3 apps utilizando dicha tecnología). Es una app de tipo pomodoro, para gestionar los tiempos de trabajo empleados en tareas, así como los tiempos de descanso necesarios.
     
 ![image](https://user-images.githubusercontent.com/103461358/194416716-e4703223-798e-45fb-b12b-4ab0485a96c8.png)
    
-   *  *Palabras en cadena*, esta es la app más reciente que he desarrollado, es una app tipo Wordle, con la salvedad de que cada día disponemos de una partida completa con más de 9000 palabras españolas en las que cada palabra se relaciona con la anterior a partir de una de las letras. Ha sido muy satisfactorio realizarla, ya que además de JetPackCompose, he utilizado otras tecnologías tan interesantes como Inyección de dependencias con Hilt, Flows, etc. Ha sido muy divertido desarrollarla 😇
+   *  *[Palabras en cadena](https://play.google.com/store/apps/details?id=io.github.afalabarce.wordlepuzzle)*, esta es la app más reciente que he desarrollado, es una app tipo Wordle, con la salvedad de que cada día disponemos de una partida completa con más de 9000 palabras españolas en las que cada palabra se relaciona con la anterior a partir de una de las letras. Ha sido muy satisfactorio realizarla, ya que además de JetPackCompose, he utilizado otras tecnologías tan interesantes como Inyección de dependencias con Hilt, Flows, etc. Ha sido muy divertido desarrollarla 😇
     
 ![image](https://user-images.githubusercontent.com/103461358/194416797-3f57076d-f5ac-48bf-b5a4-60be98b1dad9.png)
 
