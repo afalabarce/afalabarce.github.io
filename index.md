@@ -129,7 +129,7 @@ Además de las apps desarrolladas, tengo varios repositorios en Github en los qu
 	
 	```groovy
 	// dependiendo de cuando lo leas, esta versión habrá subido, ya que tendrá nuevos composables...
-	implementation "io.github.afalabarce:jetpackcompose:1.3.1" 
+	implementation "io.github.afalabarce:jetpackcompose:1.3.2" 
 	```
 
 
