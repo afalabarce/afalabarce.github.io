@@ -124,6 +124,7 @@ Además de las apps desarrolladas, tengo varios repositorios en Github en los qu
 	- *SpinnerSelector*, otro composable que compose no proporciona, en este caso, el "clásico desplegable".
 	- *SwipeableCard*, este composable nos permite, mediante desplazamientos horizontales, agregar diversas acciones a un card, de este modo es muy sencillo, e intuitivo el acceso a múltiples opciones.
 	- *ViewModelService*, este desarrollo es un Service que implementa el acceso a ViewModel, por lo que podemos crear servicios que van a poder comportarse de forma reactiva.
+	- *Authenticator*, una migración reciente de un viejo desarrollo que hice en Java, permite el registro sencillo de las credenciales de un usuario de una app en el sistema de cuentas de Android, AccountManager, de forma muy sencilla.
 	
 	Para utilizar estos composables, es taaaaan sencillo como en el build.gradle de tu app poner lo siguiente	
 	
