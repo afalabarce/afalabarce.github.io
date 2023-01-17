@@ -135,6 +135,8 @@ Además de las apps desarrolladas, tengo varios repositorios en Github en los qu
   
 - [Plantilla propia MVVM para proyectos Android](https://github.com/afalabarce/MVVMProject), mi propia visión de lo que debe ser una plantilla para proyectos basada en arquitectura MVVM Clean.
 
+- [Plantilla propia MVVM para proyectos Android - Hilt -](https://github.com/afalabarce/MVVMProject-Hilt), mi propia visión de lo que debe ser una plantilla para proyectos basada en arquitectura MVVM Clean, este con inyector de dependencias Dagger-Hilt.
+- 
 ## Conclusión
 
 
