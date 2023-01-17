@@ -130,7 +130,7 @@ Además de las apps desarrolladas, tengo varios repositorios en Github en los qu
 	
 	```groovy
 	// dependiendo de cuando lo leas, esta versión habrá subido, ya que tendrá nuevos composables...
-	implementation "io.github.afalabarce:jetpackcompose:1.3.3" 
+	implementation "io.github.afalabarce:jetpackcompose:1.3.8" 
 	```
   
 - [Plantilla propia MVVM para proyectos Android](https://github.com/afalabarce/MVVMProject), mi propia visión de lo que debe ser una plantilla para proyectos basada en arquitectura MVVM Clean.
