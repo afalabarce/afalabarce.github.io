@@ -137,6 +137,7 @@ Además de las apps desarrolladas, tengo varios repositorios en Github en los qu
 
 - [Plantilla propia MVVM para proyectos Android - Hilt -](https://github.com/afalabarce/MVVMProject-Hilt), mi propia visión de lo que debe ser una plantilla para proyectos basada en arquitectura MVVM Clean, este con inyector de dependencias Dagger-Hilt.
 
+- [Project Creator](https://github.com/afalabarce/ProjectCreator), aplicación desarrollada con KMM y JetpackCompose4Desktop que permite, a partir de unas plantillas dadas (por ejemplo MVVMProject o MVVMProject-Hilt) crear proyectos ya inicializados de forma sencilla.
 
 ## Conclusión
 
